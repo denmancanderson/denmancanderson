@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denmancanderson
 - 👀 I’m interested in design
 - 🌱 I’m currently learning HTML/CSS
-- 📫 How to reach me ...
+- 📫 How to reach me denmancanderson@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a musician and freelance writer
 
